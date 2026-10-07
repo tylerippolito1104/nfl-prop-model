@@ -1,0 +1,67 @@
+pick_id,result,game_id,date,player,prop_type,line,side
+BAL@GB_2025|Derrick Henry|rush_yds|72.5|OVER,NA,BAL@GB_2025,2025-12-27,Derrick Henry,rush_yds,72.5,OVER
+BAL@GB_2025|Jordan Love|pass_yds|222.5|OVER,NA,BAL@GB_2025,2025-12-27,Jordan Love,pass_yds,222.5,OVER
+BAL@GB_2025|Josh Jacobs|rush_yds|50.5|OVER,NA,BAL@GB_2025,2025-12-27,Josh Jacobs,rush_yds,50.5,OVER
+BAL@GB_2025|Mark Andrews|rec_yds|23.5|OVER,NA,BAL@GB_2025,2025-12-27,Mark Andrews,rec_yds,23.5,OVER
+BAL@GB_2025|Tyler Huntley|pass_yds|164.5|OVER,NA,BAL@GB_2025,2025-12-27,Tyler Huntley,pass_yds,164.5,OVER
+BAL@GB_2025|Zay Flowers|rec_yds|47.5|OVER,NA,BAL@GB_2025,2025-12-27,Zay Flowers,rec_yds,47.5,OVER
+BUF@DEN_2026-01-17|Bo Nix|rush_yds|25.5|OVER,NA,BUF@DEN_2026-01-17,2026-01-17,Bo Nix,rush_yds,25.5,OVER
+BUF@DEN_2026-01-17|Courtland Sutton|rec_yds|56.5|OVER,NA,BUF@DEN_2026-01-17,2026-01-17,Courtland Sutton,rec_yds,56.5,OVER
+BUF@DEN_2026-01-17|Dalton Kincaid|rec_yds|35.5|OVER,NA,BUF@DEN_2026-01-17,2026-01-17,Dalton Kincaid,rec_yds,35.5,OVER
+BUF@DEN_2026-01-17|Jaleel McLaughlin|rush_yds|21.5|OVER,NA,BUF@DEN_2026-01-17,2026-01-17,Jaleel McLaughlin,rush_yds,21.5,OVER
+BUF@DEN_2026-01-17|James Cook|rec_yds|15.5|OVER,NA,BUF@DEN_2026-01-17,2026-01-17,James Cook,rec_yds,15.5,OVER
+BUF@DEN_2026-01-17|James Cook|rush_yds|76.5|OVER,NA,BUF@DEN_2026-01-17,2026-01-17,James Cook,rush_yds,76.5,OVER
+BUF@DEN_2026-01-17|Josh Allen|rush_yds|36.5|OVER,NA,BUF@DEN_2026-01-17,2026-01-17,Josh Allen,rush_yds,36.5,OVER
+BUF@DEN_2026-01-17|Khalil Shakir|rec_yds|53.5|OVER,NA,BUF@DEN_2026-01-17,2026-01-17,Khalil Shakir,rec_yds,53.5,OVER
+BUF@DEN_2026-01-17|Marvin Mims|rec_yds|13.5|OVER,NA,BUF@DEN_2026-01-17,2026-01-17,Marvin Mims,rec_yds,13.5,OVER
+BUF@DEN_2026-01-17|RJ Harvey|rush_yds|55.5|OVER,NA,BUF@DEN_2026-01-17,2026-01-17,RJ Harvey,rush_yds,55.5,OVER
+BUF@DEN_2026-01-17|Troy Franklin|rec_yds|20.5|OVER,NA,BUF@DEN_2026-01-17,2026-01-17,Troy Franklin,rec_yds,20.5,OVER
+HOU@LAC_2025|CJ Stroud|pass_yds|222.5|OVER,NA,HOU@LAC_2025,2025-12-27,CJ Stroud,pass_yds,222.5,OVER
+HOU@LAC_2025|CJ Stroud|rush_yds|11.5|OVER,NA,HOU@LAC_2025,2025-12-27,CJ Stroud,rush_yds,11.5,OVER
+HOU@LAC_2025|Christian Kirk|rec_yds|15.5|OVER,NA,HOU@LAC_2025,2025-12-27,Christian Kirk,rec_yds,15.5,OVER
+HOU@LAC_2025|Dalton Schultz|rec_yds|43.5|OVER,NA,HOU@LAC_2025,2025-12-27,Dalton Schultz,rec_yds,43.5,OVER
+HOU@LAC_2025|Justin Herbert|pass_yds|209.5|OVER,NA,HOU@LAC_2025,2025-12-27,Justin Herbert,pass_yds,209.5,OVER
+HOU@LAC_2025|Justin Herbert|rush_yds|23.5|OVER,NA,HOU@LAC_2025,2025-12-27,Justin Herbert,rush_yds,23.5,OVER
+HOU@LAC_2025|Keenan Allen|rec_yds|36.5|OVER,NA,HOU@LAC_2025,2025-12-27,Keenan Allen,rec_yds,36.5,OVER
+HOU@LAC_2025|Ladd McConkey|rec_yds|40.5|OVER,NA,HOU@LAC_2025,2025-12-27,Ladd McConkey,rec_yds,40.5,OVER
+HOU@LAC_2025|Nico Collins|rec_yds|63.5|OVER,NA,HOU@LAC_2025,2025-12-27,Nico Collins,rec_yds,63.5,OVER
+HOU@LAC_2025|Omarion Hampton|rush_yds|61.5|OVER,NA,HOU@LAC_2025,2025-12-27,Omarion Hampton,rush_yds,61.5,OVER
+HOU@LAC_2025|Quentin Johnston|rec_yds|32.5|OVER,NA,HOU@LAC_2025,2025-12-27,Quentin Johnston,rec_yds,32.5,OVER
+HOU@NE_2026-01-18|CJ Stroud|rush_yds|10.5|OVER,NA,HOU@NE_2026-01-18,2026-01-18,CJ Stroud,rush_yds,10.5,OVER
+HOU@NE_2026-01-18|Christian Kirk|rec_yds|38.5|OVER,NA,HOU@NE_2026-01-18,2026-01-18,Christian Kirk,rec_yds,38.5,OVER
+HOU@NE_2026-01-18|Dalton Schultz|rec_yds|45.5|OVER,NA,HOU@NE_2026-01-18,2026-01-18,Dalton Schultz,rec_yds,45.5,OVER
+HOU@NE_2026-01-18|Demario Douglas|rec_yds|18.5|OVER,NA,HOU@NE_2026-01-18,2026-01-18,Demario Douglas,rec_yds,18.5,OVER
+HOU@NE_2026-01-18|Drake Maye|rush_yds|35.5|OVER,NA,HOU@NE_2026-01-18,2026-01-18,Drake Maye,rush_yds,35.5,OVER
+HOU@NE_2026-01-18|Hunter Henry|rec_yds|37.5|OVER,NA,HOU@NE_2026-01-18,2026-01-18,Hunter Henry,rec_yds,37.5,OVER
+HOU@NE_2026-01-18|Rhamondre Stevenson|rush_yds|39.5|OVER,NA,HOU@NE_2026-01-18,2026-01-18,Rhamondre Stevenson,rush_yds,39.5,OVER
+HOU@NE_2026-01-18|Stefon Diggs|rec_yds|49.5|OVER,NA,HOU@NE_2026-01-18,2026-01-18,Stefon Diggs,rec_yds,49.5,OVER
+LAR@CHI_2026-01-18|Caleb Williams|rush_yds|19.5|OVER,NA,LAR@CHI_2026-01-18,2026-01-18,Caleb Williams,rush_yds,19.5,OVER
+LAR@CHI_2026-01-18|Colby Parkinson|rec_yds|19.5|OVER,NA,LAR@CHI_2026-01-18,2026-01-18,Colby Parkinson,rec_yds,19.5,OVER
+LAR@CHI_2026-01-18|Colston Loveland|rec_yds|56.5|OVER,NA,LAR@CHI_2026-01-18,2026-01-18,Colston Loveland,rec_yds,56.5,OVER
+LAR@CHI_2026-01-18|D'Andre Swift|rush_yds|54.5|OVER,NA,LAR@CHI_2026-01-18,2026-01-18,D'Andre Swift,rush_yds,54.5,OVER
+LAR@CHI_2026-01-18|DJ Moore|rec_yds|27.5|OVER,NA,LAR@CHI_2026-01-18,2026-01-18,DJ Moore,rec_yds,27.5,OVER
+LAR@CHI_2026-01-18|Davante Adams|rec_yds|55.5|OVER,NA,LAR@CHI_2026-01-18,2026-01-18,Davante Adams,rec_yds,55.5,OVER
+LAR@CHI_2026-01-18|Kyren Williams|rush_yds|59.5|OVER,NA,LAR@CHI_2026-01-18,2026-01-18,Kyren Williams,rush_yds,59.5,OVER
+MIA@PIT_2025|DK Metcalf|rec_yds|56.5,NA,MIA@PIT_2025,2025-12-15,DK Metcalf,rec_yds,56.5,OVER
+MIA@PIT_2025|DK Metcalf|rec_yds|56.5|-114,NA,NA,NA,NA,NA,NA,OVER
+MIA@PIT_2025|DK Metcalf|rec_yds|56.5|OVER,NA,MIA@PIT_2025,2025-12-15,DK Metcalf,rec_yds,56.5,OVER
+MIA@PIT_2025|De'Von Achane|rush_yds|84.5,NA,MIA@PIT_2025,2025-12-15,De'Von Achane,rush_yds,84.5,OVER
+MIA@PIT_2025|De'Von Achane|rush_yds|84.5|-108,NA,NA,NA,NA,NA,NA,OVER
+MIA@PIT_2025|De'Von Achane|rush_yds|84.5|OVER,NA,MIA@PIT_2025,2025-12-15,De'Von Achane,rush_yds,84.5,OVER
+MIA@PIT_2025|Jaylen Waddle|rec_yds|63.5,NA,MIA@PIT_2025,2025-12-15,Jaylen Waddle,rec_yds,63.5,OVER
+MIA@PIT_2025|Jaylen Waddle|rec_yds|63.5|-118,NA,NA,NA,NA,NA,NA,OVER
+MIA@PIT_2025|Jaylen Waddle|rec_yds|63.5|OVER,NA,MIA@PIT_2025,2025-12-15,Jaylen Waddle,rec_yds,63.5,OVER
+MIA@PIT_2025|Jaylen Warren|rush_yds|49.5,NA,MIA@PIT_2025,2025-12-15,Jaylen Warren,rush_yds,49.5,OVER
+MIA@PIT_2025|Jaylen Warren|rush_yds|49.5|-114,NA,NA,NA,NA,NA,NA,OVER
+MIA@PIT_2025|Jaylen Warren|rush_yds|49.5|OVER,NA,MIA@PIT_2025,2025-12-15,Jaylen Warren,rush_yds,49.5,OVER
+MIA@PIT_2025|Tua Tagovailoa|pass_yds|195.5,NA,MIA@PIT_2025,2025-12-15,Tua Tagovailoa,pass_yds,195.5,OVER
+MIA@PIT_2025|Tua Tagovailoa|pass_yds|195.5|-112,NA,NA,NA,NA,NA,NA,OVER
+MIA@PIT_2025|Tua Tagovailoa|pass_yds|195.5|OVER,NA,MIA@PIT_2025,2025-12-15,Tua Tagovailoa,pass_yds,195.5,OVER
+SF@SEA_2026-01-17|Brock Purdy|rush_yds|18.5|OVER,NA,SF@SEA_2026-01-17,2026-01-17,Brock Purdy,rush_yds,18.5,OVER
+SF@SEA_2026-01-17|Christian McCaffrey|rec_yds|50.5|OVER,NA,SF@SEA_2026-01-17,2026-01-17,Christian McCaffrey,rec_yds,50.5,OVER
+SF@SEA_2026-01-17|Christian McCaffrey|rush_yds|52.5|OVER,NA,SF@SEA_2026-01-17,2026-01-17,Christian McCaffrey,rush_yds,52.5,OVER
+SF@SEA_2026-01-17|Cooper Kupp|rec_yds|30.5|OVER,NA,SF@SEA_2026-01-17,2026-01-17,Cooper Kupp,rec_yds,30.5,OVER
+SF@SEA_2026-01-17|Jauan Jennings|rec_yds|40.5|OVER,NA,SF@SEA_2026-01-17,2026-01-17,Jauan Jennings,rec_yds,40.5,OVER
+SF@SEA_2026-01-17|Jaxon Smith-Njigba|rec_yds|94.5|OVER,NA,SF@SEA_2026-01-17,2026-01-17,Jaxon Smith-Njigba,rec_yds,94.5,OVER
+SF@SEA_2026-01-17|Kenneth Walker|rush_yds|59.5|OVER,NA,SF@SEA_2026-01-17,2026-01-17,Kenneth Walker,rush_yds,59.5,OVER
+SF@SEA_2026-01-17|Zach Charbonnet|rush_yds|50.5|OVER,NA,SF@SEA_2026-01-17,2026-01-17,Zach Charbonnet,rush_yds,50.5,OVER
