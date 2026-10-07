@@ -66,6 +66,25 @@ A play must satisfy minimum usage and team-total requirements before qualifying 
 
 Qualifying plays are categorized as **BET**, **SMALL BET**, or **PASS** based on expected value, model edge, and usage thresholds.
 
+## Example Results
+
+The repository includes a sample week of model output to demonstrate the prediction and selection process. All qualifying plays shown below were evaluated as **OVER** bets.
+
+| Player | Prop | Line | Result | Outcome |
+|---|---|---:|---:|---|
+| Rhamondre Stevenson | Rushing Yards | 39.5 | 70 | Win |
+| Kyren Williams | Rushing Yards | 59.5 | 87 | Win |
+| RJ Harvey | Rushing Yards | 55.5 | 20 | Loss |
+| James Cook | Rushing Yards | 76.5 | 117 | Win |
+| Christian McCaffrey | Rushing Yards | 52.5 | 35 | Loss |
+| Kenneth Walker | Rushing Yards | 59.5 | 116 | Win |
+| Zach Charbonnet | Rushing Yards | 50.5 | 20 | Loss |
+| D'Andre Swift | Rushing Yards | 54.5 | 76 | Win |
+
+**Sample performance: 5–3 (62.5% accuracy)**
+
+This sample is provided to demonstrate model output and does not represent the model's full-season performance.
+
 ## Bankroll Management
 
 The model uses a **quarter-Kelly criterion** for position sizing.
@@ -92,3 +111,4 @@ nfl-prop-model/
 │   └── run_model.R
 ├── .gitignore
 └── nfl_prop_model.Rproj
+```
